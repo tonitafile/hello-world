@@ -1,8 +1,8 @@
 # hello-world
-Let's start!
 
-Hello,
+Hello World!
 
-My name is Tonia! I don't want to share any other info right now....
+My name is Tonia but you can call me T...
+I am excited for Github!!!!
 
-Bye!
+Let's GET startED!
